@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: "ArapeyItalic";
+  src: url("./Fonts/ArapeyItalic.ttf");
+}
+@font-face {
+  font-family: "BeauRivage";
+  src: url("./Fonts/BeauRivage.ttf");
+}
+@font-face {
+  font-family: "BonheurRoyale";
+  src: url("./Fonts/BonheurRoyale.ttf");
+}
