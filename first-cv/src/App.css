@@ -1,42 +1,45 @@
-.h1{
-  font-family:"ArapeyItalic";
-}
-App {
-  text-align: center;
+*{
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  height: 20vh;
-  display: flex;
+ header{
+ background-color: #967E76;
+  height: 100%;
+     display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: #EEE3CB;
+  font-size: 5rem;
   font-family: BonheurRoyale;
+  overflow: hidden;
+     justify-content: center;
+     text-align: center;
+  /*margin:50px ;*/
+}
+h1{
+    font-family: ArapeyItalic;
+    font-size: 3rem;
+}
+h2{
+    font-family:ArapeyItalic;
+    font-size: 2.5rem;
+    text-align: center;
+
+}
+h3 {
+    font-family: Ibm;
+    font-size: 1.5rem;
+}
+.Main-container {
+  background-color:#D7C0AE;
+    color: saddlebrown;
+    font-family: BonheurRoyale;
+
+ }
+.mail, .github, .linkedin, .phone{
+    color: saddlebrown;
+    font-size: 40px;
+    margin: 0 10px 10px 10px;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
