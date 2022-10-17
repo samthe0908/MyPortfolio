@@ -3,8 +3,6 @@ C
 first-cv/.gitignore,c\5\c5ee2d932b9f364bd57e172ce53788c860d3dca6
 M
 first-cv/public/manifest.json,7\6\7615b73b695c4d73f5c95f72b8dd0cca59200d98
-J
-first-cv/public/robots.txt,6\d\6d5cf7c7355ac7204f5145c3c01dd8f4b4b842e1
 H
 first-cv/src/App.test.js,8\c\8ce30c5f95924d26ec3e38dc0841c4d2af6b96ae
 J

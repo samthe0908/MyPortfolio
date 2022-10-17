@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="-">
+    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="fixed vh-100">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-cv/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665498531893</updated>
       <workItem from="1665498538847" duration="9901000" />
-      <workItem from="1665563504839" duration="78635000" />
+      <workItem from="1665563504839" duration="84291000" />
     </task>
     <task id="LOCAL−00001" summary="created react app first-cv">
       <created>1665499118193</created>
@@ -129,7 +129,13 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1666011049640</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="fixed vh-100">
+      <created>1666029146282</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1666029146282</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +162,7 @@
     <MESSAGE value="added fonts" />
     <MESSAGE value="about me" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="fixed vh-100" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed vh-100" />
   </component>
 </project>

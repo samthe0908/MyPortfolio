@@ -7,7 +7,7 @@ import {FaPhoneSquare,FaEnvelopeSquare,FaLinkedin,FaGithubSquare} from "react-ic
 
 function App() {
   return (
-      <div className="vh-100 container-fluid ">
+      <div className="vh-100 container-fluid">
       {/*<div className=" d-flex flex-column vh-100 ">*/}
           <div className="Header-container min-vh-25 ">
                   Samantha  Theerawat
@@ -17,7 +17,7 @@ function App() {
                 <Row className="row-cols-1 " >
                     <Col className= "col-md-3 d-flex flex-column justify-content-center text-center mt-3 mb-3 ">
                         <div >
-                            <img src="./images/samantha13.jpg" alt="profileimage"
+                            <img src="./images/samantha13.jpg" alt="Samantha Theerawat"
                                  style={{width: "200px", height:"200px", border:"5px double saddlebrown"}}
                                  className="rounded-circle  "/>
                         </div>
@@ -85,7 +85,7 @@ function App() {
                                     <h3 >2000 – 2022 <br/>Restaurang Sala thai,Göteborg <br/>Egenföretagare med fyra anställda. </h3>
                                 </Col>
                                 <Col className="mt-3" >
-                                    <h3 >2019<br/>Liseberg, Göteborg <br/>Restaurang personal <br/>
+                                    <h3 >1999<br/>Liseberg, Göteborg <br/>Restaurang personal <br/>
                                         Jag sökte säsongarbete, fick stationerad på fastfood-restaurang. </h3>
                                 </Col>
                                 <Col className="mt-3">
