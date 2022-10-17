@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="created react app first-cv">
+    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="-">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-cv/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-cv/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-cv/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,21 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\myPortfolio\first-cv\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/first-cv/src/App.js" working-dir="$PROJECT_DIR$/first-cv/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665498531893</updated>
-      <workItem from="1665498538847" duration="9358000" />
+      <workItem from="1665498538847" duration="9901000" />
+      <workItem from="1665563504839" duration="71296000" />
     </task>
     <task id="LOCAL−00001" summary="created react app first-cv">
       <created>1665499118193</created>
@@ -58,7 +72,55 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1665499118193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="edited header">
+      <created>1665525349635</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1665525349635</updated>
+    </task>
+    <task id="LOCAL−00003" summary="edited header">
+      <created>1665525381983</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1665525381983</updated>
+    </task>
+    <task id="LOCAL−00004" summary="import bootstrap">
+      <created>1665525409148</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1665525409148</updated>
+    </task>
+    <task id="LOCAL−00005" summary="deleted">
+      <created>1665525438422</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1665525438422</updated>
+    </task>
+    <task id="LOCAL−00006" summary="npm i bootstrap">
+      <created>1665525467340</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1665525467340</updated>
+    </task>
+    <task id="LOCAL−00007" summary="added fonts">
+      <created>1665525509137</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1665525509137</updated>
+    </task>
+    <task id="LOCAL−00008" summary="-">
+      <created>1665525527618</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1665525527618</updated>
+    </task>
+    <task id="LOCAL−00009" summary="-">
+      <created>1665525562171</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1665525562171</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,9 +136,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created react app first-cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="created react app first-cv" />
+    <MESSAGE value="edited header" />
+    <MESSAGE value="import bootstrap" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="npm i bootstrap" />
+    <MESSAGE value="added fonts" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
