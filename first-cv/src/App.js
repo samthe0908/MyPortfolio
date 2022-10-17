@@ -6,14 +6,14 @@ import {FaPhoneSquare,FaEnvelopeSquare,FaLinkedin,FaGithubSquare} from "react-ic
 
 
 function App() {
-
   return (
-      <div className=" d-flex flex-column  ">
-          <header className="vh-auto">
+      <div className="vh-100 container-fluid ">
+      {/*<div className=" d-flex flex-column vh-100 ">*/}
+          <div className="Header-container min-vh-25 ">
                   Samantha  Theerawat
                   <h1> Full-stack webbutvecklare </h1>
-          </header>
-            <div className="Main-container min-vh-100 w-100 ">
+          </div>
+            <div className="Main-container min-vh-75 ">
                 <Row className="row-cols-1 " >
                     <Col className= "col-md-3 d-flex flex-column justify-content-center text-center mt-3 mb-3 ">
                         <div >
@@ -61,21 +61,21 @@ function App() {
                 <Row className="ms-5 me-5" style={{ borderTop:"saddlebrown solid 3px "}}>>
                     <h1 className="text-center fw-bold fs-1 mt-0" > OM MIG</h1>
                     <h3 className="text-start my-5">
-                        Efter mer än 30 år varav 22 år med egen verksamhet inom restaurangbranschen, bestämde mig att testa något nytt.
-                        Det blev då programmering för det alltid har legat i mitt intresse och kändes att det ligger rätt i tiden.
+                        Efter mer än 30 år varav 22 år med egen verksamhet inom restaurangbranschen, känner att jag vill ändra min karriär och testa på någon ny uppmaning. Det blev då programmering för det alltid har legat i mitt intresse och kändes att det ligger rätt i tiden.
                         <br/><br/>
-                        Jag är mycket driven person  och utmanar mig hela tiden att prestera mitt absolut bästa.
-                        För mig är detaljer lika viktiga som helheten och jag är snabb på att hitta lösningar på de problem som uppstår.
+                        Jag är mycket driven person  och utmanar mig hela tiden att prestera mitt absolut bästa. För mig är detaljer lika viktiga som helheten och jag är snabb på att hitta lösningar på de problem som uppstår.
                         <br/><br/>
                         Som person är jag positiv, glad, nyfiken och öppet för att lära mig nya saker, stresstålig , lugn, lätt att jobba med och har en stor portion humor.
-                        Av min erfarenheten som egen företagare i 22 år, bidrog till att jag är målmedveten, framåtdrivande, ödmjuk, beslutsamt, delaktig och uppmuntran.
+                        <br/><br/>
+                        Av min erfarenheten som egen företagare i 22 år, bidrog till att jag är målmedveten, problemlösare,  framåtdrivande, ödmjuk, beslutsamt, delaktig och uppmuntran, flexibel och lyhörd
+
 
                     </h3>
                     <h3 className="text-start my-3"> Språk: Svenska, Engelska, Thailändska (modersmål)</h3>
                     <h3 className="text-start mt-2 mb-3"> Körkort: Behörighet B</h3>
                 </Row>
 
-                <Row className="ms-5 me-5 " style={{ borderTop:"saddlebrown solid 3px  "}}>>
+                <Row className="ms-5 me-5 " style={{ borderTop:"saddlebrown solid 3px "}}>>
                     <Col className= "d-flex flex-column mt-3 mb-3 ">
                         <Row >
                             <h1 className="text-center fw-bold fs-1 mt-3" > ARBETSLIVSERFARENHET</h1>

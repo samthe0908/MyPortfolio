@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 
- header{
+ .Header-container{
  background-color: #967E76;
-  height: 100%;
+  /*height: 30vh;*/
      display: flex;
   flex-direction: column;
   align-items: center;
