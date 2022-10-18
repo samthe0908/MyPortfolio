@@ -1,42 +1,47 @@
-*{
-  box-sizing: border-box;
+* {
+    box-sizing: border-box;
 }
 
- .Header-container{
- background-color: #967E76;
-  /*height: 30vh;*/
-     display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: #EEE3CB;
-  font-size: 5rem;
-  font-family: BonheurRoyale;
-  overflow: hidden;
-     justify-content: center;
-     text-align: center;
-  /*margin:50px ;*/
+
+.Header-container {
+    background-color: #967E76;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #EEE3CB;
+    font-size: 5rem;
+    font-family: BonheurRoyale;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
 }
-h1{
+
+h1 {
     font-family: ArapeyItalic;
     font-size: 3rem;
 }
-h2{
-    font-family:ArapeyItalic;
+
+h2 {
+    font-family: ArapeyItalic;
     font-size: 2.5rem;
     text-align: center;
 
 }
+
 h3 {
     font-family: Ibm;
     font-size: 1.5rem;
 }
-.Main-container {
-  background-color:#D7C0AE;
+
+.Content-container {
+    background-color: #D7C0AE;
     color: saddlebrown;
     font-family: BonheurRoyale;
+    overflow: hidden;
 
- }
-.mail, .github, .linkedin, .phone{
+}
+
+.mail, .github, .linkedin, .phone {
     color: saddlebrown;
     font-size: 40px;
     margin: 0 10px 10px 10px;

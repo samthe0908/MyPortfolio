@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="fixed vh-100">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="rätta fel i erfarenhet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-cv/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +28,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="format.on.save" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-2108/FullStack/MissManga/client/src/assets/fonts/Adamina" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="actions.on.save" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665498531893</updated>
       <workItem from="1665498538847" duration="9901000" />
-      <workItem from="1665563504839" duration="84291000" />
+      <workItem from="1665563504839" duration="93715000" />
     </task>
     <task id="LOCAL−00001" summary="created react app first-cv">
       <created>1665499118193</created>
@@ -135,7 +137,13 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1666029146282</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="rätta fel i erfarenhet">
+      <created>1666036533571</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1666036533571</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="about me" />
     <MESSAGE value="-" />
     <MESSAGE value="fixed vh-100" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed vh-100" />
+    <MESSAGE value="rätta fel i erfarenhet" />
+    <option name="LAST_COMMIT_MESSAGE" value="rätta fel i erfarenhet" />
   </component>
 </project>
