@@ -6,7 +6,7 @@ import {FaPhoneSquare, FaEnvelopeSquare, FaLinkedin, FaGithubSquare} from "react
 
 function App() {
     return (
-        <div className=" vh-100 container-fluid ">
+        <div className=" vh-100 container-fluid gx-0">
             <div className="Header-container min-vh-25 ">
                 Samantha Theerawat
                 <h1> Full-stack webbutvecklare </h1>

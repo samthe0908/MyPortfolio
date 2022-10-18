@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="rätta fel i erfarenhet">
+    <list default="true" id="7ab4e4f3-23d5-4d80-a7fc-fc1f5a8371c7" name="Changes" comment="vh 100">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-cv/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-cv/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-cv/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665498531893</updated>
       <workItem from="1665498538847" duration="9901000" />
-      <workItem from="1665563504839" duration="93715000" />
+      <workItem from="1665563504839" duration="97832000" />
     </task>
     <task id="LOCAL−00001" summary="created react app first-cv">
       <created>1665499118193</created>
@@ -143,7 +142,13 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1666036533571</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="vh 100">
+      <created>1666059065179</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1666059065180</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +177,7 @@
     <MESSAGE value="-" />
     <MESSAGE value="fixed vh-100" />
     <MESSAGE value="rätta fel i erfarenhet" />
-    <option name="LAST_COMMIT_MESSAGE" value="rätta fel i erfarenhet" />
+    <MESSAGE value="vh 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="vh 100" />
   </component>
 </project>
